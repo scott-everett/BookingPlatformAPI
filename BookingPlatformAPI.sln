@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingPlatformAPI", "BookingPlatformAPI\BookingPlatformAPI.csproj", "{242AA028-0C5E-438A-B1DF-00B5A2FDE9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingPlatformAPITests", "BookingPlatformAPITests\BookingPlatformAPITests.csproj", "{EF7A7922-0321-41AF-9316-BA6263C50DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{242AA028-0C5E-438A-B1DF-00B5A2FDE9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242AA028-0C5E-438A-B1DF-00B5A2FDE9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242AA028-0C5E-438A-B1DF-00B5A2FDE9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242AA028-0C5E-438A-B1DF-00B5A2FDE9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7A7922-0321-41AF-9316-BA6263C50DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7A7922-0321-41AF-9316-BA6263C50DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7A7922-0321-41AF-9316-BA6263C50DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7A7922-0321-41AF-9316-BA6263C50DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F15DAC-C139-4D3D-BDE8-869D50AD2ACC}
+	EndGlobalSection
+EndGlobal
